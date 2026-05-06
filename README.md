@@ -22,11 +22,11 @@
 
 **Automation Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/POM-007ACC?style=for-the-badge&logo=test-dot-com&logoColor=white" />
-  <img src="https://img.shields.io/badge/XPath-0052CC?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/POM-007ACC?style=for-the-badge&logo=test-dot-com&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/XPath-0052CC?style=for-the-badge&logo=xml&logoColor=white" height="40"/>
 </p>
 
 **API & Integration**
